@@ -1,10 +1,11 @@
 # bst-map
 BST Map Written in c++ Along with a Lazy In-Order Traversing Iterator
+
 by Julian Rosner
 
 The map supports deletion, and the the iterator supports any operation
 you would expect from an input_iterator. Currently the map perfroms no
-self-balancing techniques although I have been thinking about coming back
+self-balancing techniques, although I have been thinking about coming back
 and implementing this.
 
 The way that I've partitioned code into files may seem unusual at first. 
